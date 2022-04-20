@@ -11,14 +11,3 @@ const ErrorMessage = () => {
 export default ErrorMessage;
 
 
-// let arr= [];
-
-
-// for( let i; i <= 10; i++){
-//     for(let j; j<= 10; j++){
-//         arr[i]
-//     }
-//     arr[j]
-
-//     console.log(arr);
-// }
